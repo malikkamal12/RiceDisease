@@ -1,0 +1,17 @@
+https://www.kaggle.com/datasets/dedeikhsandwisaputra/rice-leafs-disease-dataset/data
+
+List classes :
+
+Train :
+Bacterial Leaf Blight (350)
+Leaf Brown Spot (350)
+Healthy (350)
+Leaf Blast (350)
+Leaf Scald (350)
+
+Validation :
+Bacterial Leaf Blight (88)
+Leaf Brown Spot (88)
+Healthy (88)
+Leaf Blast (88)
+Leaf Scald (88)
